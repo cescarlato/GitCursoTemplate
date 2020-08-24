@@ -2,3 +2,4 @@ Este é o conteúdo do curso.
 Alteração 1
 Alteração merge
 
+CONFLITO
