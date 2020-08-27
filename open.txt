@@ -3,3 +3,4 @@ Alteração 1
 Alteração merge
 
 CONFLITO DEVELOP
+Alteração commit
